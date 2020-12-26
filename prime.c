@@ -23,5 +23,5 @@ void prime() {
             printf("%d is not a prime number.", n);
     }
 
-    return 0;
+   // return 0;
 }
