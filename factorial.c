@@ -8,5 +8,5 @@ void fact()
       fact=fact*i;    
   }    
   printf("Factorial of %d is: %d",number,fact);    
-return 0;  
+// return 0;  
 }
