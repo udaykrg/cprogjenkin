@@ -1,5 +1,5 @@
-uday.exe:main.o factorial.o biggest3.o reverse.o prime.o
-gcc -o uday.exe main.o factorial.o biggest3.o reverse.o prime.o
+UDAY.exe:main.o factorial.o biggest3.o reverse.o prime.o
+	gcc -o UDAY.exe main.o factorial.o biggest3.o reverse.o prime.o
 main.o:main.c
 	gcc -c main.c
 factorial.o:factorial.c
